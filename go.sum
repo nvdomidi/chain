@@ -1,0 +1,13 @@
+github.com/celer/csg v0.0.0-20191030161534-d8cc64d610e3 h1:vNnuu3n/hrOt/ZtmJpPos1GP5sLj7pR7VGTvIlXhlv4=
+github.com/celer/csg v0.0.0-20191030161534-d8cc64d610e3/go.mod h1:Z4U8+PRi3WdVs3Yut5McNSsSYSUHqpATZrVSZkA1hCA=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/golang/geo v0.0.0-20180826223333-635502111454/go.mod h1:vgWZ7cu0fq0KY3PpEHsocXOWJpRtkcbKemU4IUw0M60=
+github.com/golang/geo v0.0.0-20230421003525-6adc56603217 h1:HKlyj6in2JV6wVkmQ4XmG/EIm+SCYlPZ+V4GWit7Z+I=
+github.com/golang/geo v0.0.0-20230421003525-6adc56603217/go.mod h1:8wI0hitZ3a1IxZfeH3/5I97CI8i5cLGsYe7xNhQGs9U=
+github.com/markus-wa/quickhull-go v1.0.2 h1:Qlb+LJ/koAJOclnleCHzyfIPjr0XXnAG3njKysKF6kw=
+github.com/markus-wa/quickhull-go v1.0.2/go.mod h1:gMPnFb0DpuzRpbHesp64Nq4oFXE5SglAD86nlKrkETs=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
+github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
